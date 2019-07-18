@@ -1,0 +1,12 @@
+applications:
+- buildpacks:
+  - sdk-for-nodejs
+  command: npm start
+  domain: null
+  host: null
+  instances: 1
+  memory: 512MB
+  name: hackathonnodejsbackend
+  routes:
+  - route: hackathonnodejsbackend.us-south.cf.appdomain.cloud
+  timeout: 180
