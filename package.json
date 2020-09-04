@@ -30,7 +30,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "ibm-cloud-env": "^0",
-    "ibm_db": "^2.5.2",
+    "ibm_db": "^2.6.0",
     "log4js": "^4.0.2"
   },
   "devDependencies": {
