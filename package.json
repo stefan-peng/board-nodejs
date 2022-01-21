@@ -31,7 +31,7 @@
     "express": "^4.16.4",
     "ibm-cloud-env": "^0",
     "ibm_db": "^2.5.2",
-    "log4js": "^4.0.2"
+    "log4js": "^6.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.12.1",
